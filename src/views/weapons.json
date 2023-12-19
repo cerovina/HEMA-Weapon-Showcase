@@ -1,0 +1,59 @@
+{
+    "weapons": [
+      {
+        "id": 1,
+        "picture": "weapon-images/longsword.png",
+        "name": "Longsword",
+        "description": "The longsword. The most popular HEMA weapon and most seen on all HEMA tournaments and trainings alike. Despite the popular opinion, it's a quite light and nimble weapon, weighing around 1.6-1.7kg. It provides great defence and can perform a vast amount of different attacks, suitable for all fencing styles."
+      },
+      {
+        "id": 2,
+        "picture": "weapon-images/sidesword.png",
+        "name": "Sidesword",
+        "description": "Description for Item 2."
+      },
+      {
+        "id": 3,
+        "picture": "weapon-images/rapier.png",
+        "name": "Rapier",
+        "description": "Description for Item 3."
+      },
+      {
+        "id": 4,
+        "picture": "weapon-images/messer.png",
+        "name": "Messer",
+        "description": "Description for Item 4."
+      },
+      {
+        "id": 5,
+        "picture": "weapon-images/saber.png",
+        "name": "Saber",
+        "description": "Description for Item 5."
+      },
+      {
+        "id": 6,
+        "picture": "weapon-images/dagger.png",
+        "name": "Dagger",
+        "description": "Description for Item 6."
+      },
+      {
+        "id": 7,
+        "picture": "weapon-images/spear.png",
+        "name": "Spear",
+        "description": "Description for Item 7."
+      },
+      {
+        "id": 8,
+        "picture": "weapon-images/halberd.png",
+        "name": "Halberd",
+        "description": "Description for Item 8."
+      },
+      {
+        "id": 9,
+        "picture": "weapon-images/buckler.png",
+        "name": "Buckler",
+        "description": "Description for Item 8."
+      }
+    ]
+  }
+  
