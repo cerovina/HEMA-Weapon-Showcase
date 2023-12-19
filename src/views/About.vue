@@ -13,7 +13,7 @@
           <br>
           All of them are perfectly safe and we're equipped with proper gear, such as a mask, gloves and other.
           <br>
-          I hope you find them interesting! 😄
+          Check them out! 😄
         </p>
       </div>
     </div>
