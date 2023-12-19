@@ -39,4 +39,16 @@
   .textBox {
     width: 200px;
   }
+
+  @media screen and (max-width: 767px) {
+    .imageMe {
+    display: flex;
+    margin: auto;
+  }
+    .picMe {
+    width: 300px;
+    margin: auto;
+    margin-top: 30px;
+  }
+  }
 </style>

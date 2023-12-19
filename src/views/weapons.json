@@ -10,49 +10,49 @@
         "id": 2,
         "picture": "weapon-images/sidesword.png",
         "name": "Sidesword",
-        "description": "Description for Item 2."
+        "description": "Will be added soon :)"
       },
       {
         "id": 3,
         "picture": "weapon-images/rapier.png",
         "name": "Rapier",
-        "description": "Description for Item 3."
+        "description": "Will be added soon :)"
       },
       {
         "id": 4,
         "picture": "weapon-images/messer.png",
         "name": "Messer",
-        "description": "Description for Item 4."
+        "description": "Will be added soon :)"
       },
       {
         "id": 5,
         "picture": "weapon-images/saber.png",
         "name": "Saber",
-        "description": "Description for Item 5."
+        "description": "Will be added soon :)"
       },
       {
         "id": 6,
         "picture": "weapon-images/dagger.png",
         "name": "Dagger",
-        "description": "Description for Item 6."
+        "description": "Will be added soon :)"
       },
       {
         "id": 7,
         "picture": "weapon-images/spear.png",
         "name": "Spear",
-        "description": "Description for Item 7."
+        "description": "Will be added soon :)"
       },
       {
         "id": 8,
         "picture": "weapon-images/halberd.png",
         "name": "Halberd",
-        "description": "Description for Item 8."
+        "description": "Will be added soon :)"
       },
       {
         "id": 9,
         "picture": "weapon-images/buckler.png",
         "name": "Buckler",
-        "description": "Description for Item 8."
+        "description": "Will be added soon :)"
       }
     ]
   }
