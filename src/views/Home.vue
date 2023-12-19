@@ -162,7 +162,7 @@ h2 {
   .button-grid {
     display: grid;
     grid-template-columns: repeat(3, 110px);
-    margin-left: 50px;
+    margin-left: 45px;
   }
 
   h1 {
