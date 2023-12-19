@@ -24,6 +24,7 @@
   
     p {
       font-size: 20px;
+      font-family: "Cinzel";
     }
   
     .pic2 {
@@ -33,6 +34,11 @@
       animation: rotateImages 10s linear infinite;
       transform-style: preserve-3d; /* Enable 3D transformations */
     }
+
+    @font-face {
+  font-family: 'Cinzel';
+  src: url('~@/assets/fonts/Cinzel-VariableFont_wght.ttf') format('truetype');
+}
   
     @keyframes rotateImages {
       0% {

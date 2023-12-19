@@ -26,6 +26,7 @@ nav a {
   font-weight: bold;
   color: white;
   text-decoration-line: none;
+  margin: 10px;
 }
 
 nav a.router-link-exact-active {

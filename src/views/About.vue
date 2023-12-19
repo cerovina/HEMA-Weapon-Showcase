@@ -1,20 +1,20 @@
 <template>
   <div>
   <div class="about">
-      <div textBox>
+      <div class="textBox">
+        <div class="imageMe">
+    <img class="picMe" :src="require('../assets/other-images/slikazaturnir.jpg')">
+  </div>
         <p>
           Hello there!
           <br>
           Here's a showcase of some of the weapons used in the sport I train - Historical European Martial Arts (HEMA).
           <br>
-          All of them are perfectly safe and we are equipped with proper gear, such as a mask, gloves and other.
+          All of them are perfectly safe and we're equipped with proper gear, such as a mask, gloves and other.
           <br>
           I hope you find them interesting! 😄
         </p>
     </div>
-  </div>
-  <div class="imageMe">
-    <img class="picMe" :src="require('../assets/other-images/slikazaturnir.jpg')">
   </div>
 </div>
 </template>
@@ -24,31 +24,47 @@
     background-color: black;
   }
   p {
-    font-size: 20px;
+    font-size: 25px;
+    font-family: "Cinzel";
   }
   .imageMe {
-    margin-right: 560px;
     display: flex;
   }
   .picMe {
-    width: 40%;
-    margin-left: 400px;
-    margin-top: 30px;
+    width: 50%;
     margin-left: auto;
+    margin-right: 130px;
   }
   .textBox {
-    width: 200px;
+    margin: auto;
+    display: flex;
+    margin-top: 50px;
+    margin-right: 250px;
   }
 
+  @font-face {
+  font-family: 'Cinzel';
+  src: url('~@/assets/fonts/Cinzel-VariableFont_wght.ttf') format('truetype');
+}
+
   @media screen and (max-width: 767px) {
-    .imageMe {
-    display: flex;
-    margin: auto;
-  }
-    .picMe {
-    width: 300px;
-    margin: auto;
-    margin-top: 30px;
-  }
+      .imageMe {
+      display: flex;
+      margin: auto;
+    }
+      .picMe {
+      width: 300px;
+      margin: auto;
+    }
+
+      p {
+      font-size: 20px;
+    }
+
+    .textBox {
+      width: 200px;
+      display: block;
+      margin-left: 45px;
+    }
   }
 </style>

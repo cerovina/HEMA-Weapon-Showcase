@@ -139,7 +139,7 @@ h2 {
 
 @font-face {
   font-family: 'Cinzel';
-  src: url('~@/assets/fonts/Cinzel-VariableFont_wght.ttf') format('truetype'); /* Adjust the path to your font file */
+  src: url('~@/assets/fonts/Cinzel-VariableFont_wght.ttf') format('truetype');
 }
 
 @media screen and (max-width: 767px) {
