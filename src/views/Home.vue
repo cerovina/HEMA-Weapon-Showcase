@@ -41,10 +41,6 @@ export default {
 </script>
 
 <style>
-body {
-  background-color: black;
-}
-
 h1 {
   font-size: 4rem;
   margin-right: 770px;
