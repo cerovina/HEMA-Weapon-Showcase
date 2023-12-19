@@ -1,10 +1,11 @@
 <template>
   <div>
   <div class="about">
-      <div class="textBox">
+      <div class="box">
         <div class="imageMe">
     <img class="picMe" :src="require('../assets/other-images/slikazaturnir.jpg')">
   </div>
+    <div class="text">
         <p>
           Hello there!
           <br>
@@ -14,6 +15,7 @@
           <br>
           I hope you find them interesting! 😄
         </p>
+      </div>
     </div>
   </div>
 </div>
@@ -35,7 +37,7 @@
     margin-left: auto;
     margin-right: 130px;
   }
-  .textBox {
+  .box {
     margin: auto;
     display: flex;
     margin-top: 50px;
@@ -61,10 +63,14 @@
       font-size: 20px;
     }
 
-    .textBox {
+    .box {
       width: 200px;
-      display: block;
-      margin-left: 45px;
+      display:contents;
+    }
+
+    .text {
+      margin: auto;
+      margin-top: 30px;
     }
   }
 </style>
