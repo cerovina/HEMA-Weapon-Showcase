@@ -162,7 +162,7 @@ h2 {
   .button-grid {
     display: grid;
     grid-template-columns: repeat(3, 110px);
-    margin-left: 80px;
+    margin: auto;
   }
 
   h1 {
@@ -197,12 +197,12 @@ h2 {
     font-weight: bold;
     color: black;
     max-width: 55%;
-    height: 190px;
+    height: 220px;
     margin: auto;
     padding-top: 37px;
     padding-left: 60px;
     padding-right: 60px;
-    padding-bottom: 60px;
+    padding-bottom: 80px;
     justify-content: center;
     align-content: center;
     font-family: "Cinzel";
