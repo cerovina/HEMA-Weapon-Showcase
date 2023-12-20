@@ -19,8 +19,16 @@
 }
 
 nav {
+  margin-top: 20px;
+  font-size: 20px;
+  font-family: "Cinzel";
   padding: 30px;
 }
+
+@font-face {
+    font-family: 'Cinzel';
+    src: url('~@/assets/fonts/Cinzel-VariableFont_wght.ttf') format('truetype');
+  }
 
 nav a {
   font-weight: bold;

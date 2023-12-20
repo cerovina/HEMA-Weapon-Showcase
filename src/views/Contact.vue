@@ -36,8 +36,8 @@
     }
 
     @font-face {
-  font-family: 'Cinzel';
-  src: url('~@/assets/fonts/Cinzel-VariableFont_wght.ttf') format('truetype');
+    font-family: 'Cinzel';
+    src: url('~@/assets/fonts/Cinzel-VariableFont_wght.ttf') format('truetype');
 }
   
     @keyframes rotateImages {
