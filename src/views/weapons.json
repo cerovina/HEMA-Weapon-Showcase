@@ -22,37 +22,37 @@
         "id": 4,
         "picture": "weapon-images/messer.png",
         "name": "Messer",
-        "description": "Will be added soon :)"
+        "description": "Least used in HEMA, but with the most interesting backstory. Since swords were not allowed to be carried in medieval times, this long knife was a great solution for a common man to bypass the law."
       },
       {
         "id": 5,
         "picture": "weapon-images/saber.png",
         "name": "Saber",
-        "description": "Will be added soon :)"
+        "description": "Fast and agile, the saber comes in many forms and sizes. It has been the favourite weapon of many militaries throughout history. Due to the shape of the blade, it is excellet for fast cutting motions."
       },
       {
         "id": 6,
         "picture": "weapon-images/dagger.png",
         "name": "Dagger",
-        "description": "Will be added soon :)"
+        "description": "Modern knife combat differs from the medieval one (difference in gear and the weapon). The distance is greatly reduced in exchange for mobility. It is best used as offhand, with a sidesword or rapier."
       },
       {
         "id": 7,
         "picture": "weapon-images/spear.png",
         "name": "Spear",
-        "description": "Will be added soon :)"
+        "description": "One of the most used weapons on the battlefields. If you ask any HEMA practicioner which weapon would they actually take to a real battle, the spear will be the answer. Superior range and easy to learn."
       },
       {
         "id": 8,
         "picture": "weapon-images/halberd.png",
         "name": "Halberd",
-        "description": "Will be added soon :)"
+        "description": "Quite similar to the spear, but with a twist. This weapon is good at both thrusting and cutting as well, due to the shape of it's head. Just like with the spear, practice with this weapon is done slowly."
       },
       {
         "id": 9,
         "picture": "weapon-images/buckler.png",
         "name": "Buckler",
-        "description": "Will be added soon :)"
+        "description": "The buckler might appear funny, but it is a fantastic offhand. The defence it provides and the size ratio is surprisingly good. It is mostly used with a sidesword, with specific techniques that utilize both."
       }
     ]
   }
